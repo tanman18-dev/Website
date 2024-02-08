@@ -4,6 +4,9 @@ body{
   overflow: clip;
   color: white;
 }
+.superstars {
+  z-index: -999999999999999999;
+}
 .center{
   text-align: center;
 }
