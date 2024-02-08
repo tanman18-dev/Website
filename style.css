@@ -4,7 +4,7 @@ body{
   overflow: clip;
   color: white;
 }
-.superstars {
+.superstars, .box-of-star1, .box-of-star2, .box-of-star3, .box-of-star4 {
   z-index: -999999999999999999;
 }
 .center{
