@@ -103,6 +103,9 @@ button:hover {
   width: fit-content;
   height: fit-content;
   cursor: pointer;
+  position: fixed;
+  left: 10vh;
+  top: 90vh;
 }
 
 .icon {
