@@ -104,8 +104,8 @@ button:hover {
   height: fit-content;
   cursor: pointer;
   position: fixed;
-  left: 10vh;
-  top: 90vh;
+  left: 0vh;
+  top: 100vh;
 }
 
 .icon {
